@@ -7,6 +7,9 @@ input : Hello World
 Expected Output : 
 
 Hell
+
 oW o
+
 rld.
+
 ....
